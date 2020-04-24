@@ -1,0 +1,6 @@
+C:\Users\Bizruntime-52\source\repos\file2\file2\bin\Debug\file2.exe.config
+C:\Users\Bizruntime-52\source\repos\file2\file2\bin\Debug\file2.exe
+C:\Users\Bizruntime-52\source\repos\file2\file2\bin\Debug\file2.pdb
+C:\Users\Bizruntime-52\source\repos\file2\file2\obj\Debug\file2.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\file2\file2\obj\Debug\file2.exe
+C:\Users\Bizruntime-52\source\repos\file2\file2\obj\Debug\file2.pdb

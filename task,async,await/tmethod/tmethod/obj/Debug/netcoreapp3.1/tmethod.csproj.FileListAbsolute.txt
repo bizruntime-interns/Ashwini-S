@@ -1,0 +1,11 @@
+C:\Users\91776\source\repos\tmethod\tmethod\bin\Debug\netcoreapp3.1\tmethod.exe
+C:\Users\91776\source\repos\tmethod\tmethod\bin\Debug\netcoreapp3.1\tmethod.deps.json
+C:\Users\91776\source\repos\tmethod\tmethod\bin\Debug\netcoreapp3.1\tmethod.runtimeconfig.json
+C:\Users\91776\source\repos\tmethod\tmethod\bin\Debug\netcoreapp3.1\tmethod.runtimeconfig.dev.json
+C:\Users\91776\source\repos\tmethod\tmethod\bin\Debug\netcoreapp3.1\tmethod.dll
+C:\Users\91776\source\repos\tmethod\tmethod\bin\Debug\netcoreapp3.1\tmethod.pdb
+C:\Users\91776\source\repos\tmethod\tmethod\obj\Debug\netcoreapp3.1\tmethod.csprojAssemblyReference.cache
+C:\Users\91776\source\repos\tmethod\tmethod\obj\Debug\netcoreapp3.1\tmethod.AssemblyInfoInputs.cache
+C:\Users\91776\source\repos\tmethod\tmethod\obj\Debug\netcoreapp3.1\tmethod.AssemblyInfo.cs
+C:\Users\91776\source\repos\tmethod\tmethod\obj\Debug\netcoreapp3.1\tmethod.dll
+C:\Users\91776\source\repos\tmethod\tmethod\obj\Debug\netcoreapp3.1\tmethod.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ashModelStoreContainer" CdmEntityContainer="ashEntities">
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="ashModel.student">
+        <MappingFragment StoreEntitySet="student">
+          <ScalarProperty Name="personid" ColumnName="personid" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="phoneno" ColumnName="phoneno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="children">
+      <EntityTypeMapping TypeName="ashModel.child">
+        <MappingFragment StoreEntitySet="child">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="age" ColumnName="age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="childnesses">
+      <EntityTypeMapping TypeName="ashModel.childness">
+        <MappingFragment StoreEntitySet="childness">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="age" ColumnName="age" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

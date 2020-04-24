@@ -1,0 +1,17 @@
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\rx.exe.config
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\rx.exe
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\rx.pdb
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.Reactive.dll
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.ValueTuple.dll
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.Reactive.xml
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\System.ValueTuple.xml
+C:\Users\Bizruntime-52\source\repos\rx\rx\obj\Debug\rx.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\rx\rx\obj\Debug\rx.csproj.CopyComplete
+C:\Users\Bizruntime-52\source\repos\rx\rx\obj\Debug\rx.exe
+C:\Users\Bizruntime-52\source\repos\rx\rx\obj\Debug\rx.pdb
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\log4net.dll
+C:\Users\Bizruntime-52\source\repos\rx\rx\bin\Debug\log4net.xml

@@ -1,0 +1,6 @@
+C:\Users\Bizruntime-52\source\repos\task3\task3\bin\Debug\task3.exe.config
+C:\Users\Bizruntime-52\source\repos\task3\task3\bin\Debug\task3.exe
+C:\Users\Bizruntime-52\source\repos\task3\task3\bin\Debug\task3.pdb
+C:\Users\Bizruntime-52\source\repos\task3\task3\obj\Debug\task3.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\task3\task3\obj\Debug\task3.exe
+C:\Users\Bizruntime-52\source\repos\task3\task3\obj\Debug\task3.pdb

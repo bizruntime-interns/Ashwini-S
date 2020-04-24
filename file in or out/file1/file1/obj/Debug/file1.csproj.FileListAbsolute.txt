@@ -1,0 +1,9 @@
+C:\Users\Bizruntime-52\source\repos\file1\file1\bin\Debug\file1.exe.config
+C:\Users\Bizruntime-52\source\repos\file1\file1\bin\Debug\file1.exe
+C:\Users\Bizruntime-52\source\repos\file1\file1\bin\Debug\file1.pdb
+C:\Users\Bizruntime-52\source\repos\file1\file1\obj\Debug\file1.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\file1\file1\obj\Debug\file1.exe
+C:\Users\Bizruntime-52\source\repos\file1\file1\obj\Debug\file1.pdb
+C:\Users\Bizruntime-52\source\repos\file1\file1\bin\Debug\log4net.dll
+C:\Users\Bizruntime-52\source\repos\file1\file1\bin\Debug\log4net.xml
+C:\Users\Bizruntime-52\source\repos\file1\file1\obj\Debug\file1.csproj.CopyComplete

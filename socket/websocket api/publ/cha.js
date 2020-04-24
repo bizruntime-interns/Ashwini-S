@@ -1,0 +1,1 @@
+var socket=io.connect("https//:localhost:2000");

@@ -1,0 +1,6 @@
+C:\Users\Bizruntime-52\source\repos\chatlistclii\chatlistclii\bin\Debug\chatlistclii.exe.config
+C:\Users\Bizruntime-52\source\repos\chatlistclii\chatlistclii\bin\Debug\chatlistclii.exe
+C:\Users\Bizruntime-52\source\repos\chatlistclii\chatlistclii\bin\Debug\chatlistclii.pdb
+C:\Users\Bizruntime-52\source\repos\chatlistclii\chatlistclii\obj\Debug\chatlistclii.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\chatlistclii\chatlistclii\obj\Debug\chatlistclii.exe
+C:\Users\Bizruntime-52\source\repos\chatlistclii\chatlistclii\obj\Debug\chatlistclii.pdb

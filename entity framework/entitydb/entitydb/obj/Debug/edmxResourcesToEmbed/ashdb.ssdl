@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ashModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ash.dbo.child' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="child">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="firstname" />
+      <PropertyRef Name="lastname" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="lastname" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="age" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ash.dbo.childness' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="childness">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="firstname" />
+      <PropertyRef Name="lastname" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="lastname" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="city" Type="varchar" MaxLength="255" />
+    <Property Name="age" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'ash.dbo.firstname' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="firstname">
+          <Property Name="personid" Type="int" />
+          <Property Name="firstname" Type="varchar" MaxLength="255" />
+          <Property Name="lastname" Type="varchar" MaxLength="255" />
+          <Property Name="age" Type="int" />
+          <Property Name="phoneno" Type="int" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'ash.dbo.person' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="person">
+          <Property Name="personid" Type="int" />
+          <Property Name="firstname" Type="varchar" MaxLength="255" />
+          <Property Name="lastname" Type="varchar" MaxLength="255" />
+          <Property Name="age" Type="int" />
+          <Property Name="phoneno" Type="int" />
+          <Property Name="email" Type="varchar" MaxLength="255" />
+        </EntityType>-->
+  <EntityType Name="student">
+    <Key>
+      <PropertyRef Name="personid" />
+    </Key>
+    <Property Name="personid" Type="int" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="255" />
+    <Property Name="lastname" Type="varchar" MaxLength="255" />
+    <Property Name="age" Type="int" />
+    <Property Name="phoneno" Type="int" />
+  </EntityType>
+  <EntityContainer Name="ashModelStoreContainer">
+    <EntitySet Name="student" EntityType="Self.student" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="child" EntityType="Self.child" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [child].[id] AS [id], 
+    [child].[firstname] AS [firstname], 
+    [child].[lastname] AS [lastname], 
+    [child].[age] AS [age]
+    FROM [dbo].[child] AS [child]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="childness" EntityType="Self.childness" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [childness].[id] AS [id], 
+    [childness].[firstname] AS [firstname], 
+    [childness].[lastname] AS [lastname], 
+    [childness].[city] AS [city], 
+    [childness].[age] AS [age]
+    FROM [dbo].[childness] AS [childness]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

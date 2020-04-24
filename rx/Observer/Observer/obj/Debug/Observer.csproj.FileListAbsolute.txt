@@ -1,0 +1,15 @@
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.Reactive.dll
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.ValueTuple.dll
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.Reactive.xml
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\bin\Debug\System.ValueTuple.xml
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\obj\Debug\Observer.csproj.CopyComplete
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Bizruntime-52\source\repos\Observer\Observer\obj\Debug\Observer.pdb

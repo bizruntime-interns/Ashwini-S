@@ -1,0 +1,9 @@
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\bin\Debug\Taskcreation.exe.config
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\bin\Debug\Taskcreation.exe
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\bin\Debug\Taskcreation.pdb
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\bin\Debug\log4net.dll
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\bin\Debug\log4net.xml
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\obj\Debug\Taskcreation.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\obj\Debug\Taskcreation.csproj.CopyComplete
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\obj\Debug\Taskcreation.exe
+C:\Users\Bizruntime-52\source\repos\Taskcreation\Taskcreation\obj\Debug\Taskcreation.pdb

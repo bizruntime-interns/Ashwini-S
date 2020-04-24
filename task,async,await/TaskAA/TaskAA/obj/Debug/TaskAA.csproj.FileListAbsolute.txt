@@ -1,0 +1,9 @@
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\bin\Debug\TaskAA.exe.config
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\bin\Debug\TaskAA.exe
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\bin\Debug\TaskAA.pdb
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\bin\Debug\log4net.dll
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\bin\Debug\log4net.xml
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\obj\Debug\TaskAA.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\obj\Debug\TaskAA.csproj.CopyComplete
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\obj\Debug\TaskAA.exe
+C:\Users\Bizruntime-52\source\repos\TaskAA\TaskAA\obj\Debug\TaskAA.pdb

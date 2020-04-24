@@ -1,0 +1,9 @@
+C:\Users\Bizruntime-52\source\repos\f\f\obj\Debug\f.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\f\f\bin\Debug\f.exe.config
+C:\Users\Bizruntime-52\source\repos\f\f\bin\Debug\f.exe
+C:\Users\Bizruntime-52\source\repos\f\f\bin\Debug\f.pdb
+C:\Users\Bizruntime-52\source\repos\f\f\bin\Debug\log4net.dll
+C:\Users\Bizruntime-52\source\repos\f\f\bin\Debug\log4net.xml
+C:\Users\Bizruntime-52\source\repos\f\f\obj\Debug\f.csproj.CopyComplete
+C:\Users\Bizruntime-52\source\repos\f\f\obj\Debug\f.exe
+C:\Users\Bizruntime-52\source\repos\f\f\obj\Debug\f.pdb

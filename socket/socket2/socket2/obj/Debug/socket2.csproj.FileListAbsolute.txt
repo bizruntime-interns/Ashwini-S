@@ -1,0 +1,16 @@
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\socket2.exe.config
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\socket2.exe
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\socket2.pdb
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\log4net.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\SuperSocket.Common.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\SuperWebSocket.dll
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\log4net.xml
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\obj\Debug\socket2.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\obj\Debug\socket2.csproj.CopyComplete
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\obj\Debug\socket2.exe
+C:\Users\Bizruntime-52\source\repos\socket2\socket2\obj\Debug\socket2.pdb
